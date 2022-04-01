@@ -1,2 +1,2 @@
 # README
-READ ME 
+Etudiant à l'IUT de Troyes j'ai developpé une passion pour l'informatique au sein de la formation MMI.Il m'a toujours sembler evident de m'orienter vers le numérique car selon moi ce secteur est constante évolution. J'ai pour projet d'avoir une alternance dans le domaine du développement afin de valider mon diplôme pour intégrer une école d'ingenieur. Je pense avoir des qualités nécessaires pour travailler dans ce domaine car je suis patient , curieux et déterminé. 
